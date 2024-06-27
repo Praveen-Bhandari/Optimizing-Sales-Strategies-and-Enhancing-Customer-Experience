@@ -9,10 +9,10 @@ improve customer satisfaction, and streamline operational processes
 
 # Analysis Objectives:
 1. # Sales Performance Analysis:
-a.Evaluate sales trends over time, by channel, country, and geographic region.
-b.Assess the impact of discount strategies on sales volume and profitability.
-c.Analyze adherence to sales targets and identify areas for improvement.
-d.Identify high-performing products, sales channels, and geographic regions.
+a.# Evaluate sales trends over time, by channel, country, and geographic region.
+b.# Assess the impact of discount strategies on sales volume and profitability.
+c.# Analyze adherence to sales targets and identify areas for improvement.
+d.# Identify high-performing products, sales channels, and geographic regions.
 
 2.  # Customer Satisfaction and Experience:
 a.Explore factors influencing customer satisfaction, including complaints and returns.
